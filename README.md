@@ -1,4 +1,2 @@
-# python_proposed_solution_to_code_easier
-a more convenient / quicker way to code in python (just a suggestion! Don't pretend to be absolute!)
-
-
+# python_proposed_solution_to_code_place-savingly
+a quicker way to code in python (not pretending to be absolute)
